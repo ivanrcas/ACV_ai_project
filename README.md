@@ -4,7 +4,7 @@
 
 
 
-<img src="http://drive.google.com/uc?export=view&id=1SS4FXQsWPvP3pcmWnHo2Xhv_urtKhPiP" width="700px">
+<img src="proyecto/banner.png" width="700px">
 
 **Objetivo: Clasificar por características de vivienda y servicios básicos que influyen en la calidad de vida de los hogares colombianos.**  
 
