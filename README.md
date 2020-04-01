@@ -6,7 +6,7 @@
 
 <img src="proyecto/banner.png" width="700px">
 
-**Objetivo: Clasificar por características de vivienda y servicios básicos que influyen en la calidad de vida de los hogares colombianos.**  
+**Objetivo: Clasificar por vivienda y servicios básicos las características que influyen en la calidad de vida de los hogares colombianos.**  
 
 - Dataset: Cerca 88k registros de respuestas en la Encuesta de Calidad de Vida (DANE) y 35 caracteristicas, entre las cuales están tipo de vivienda y estrato.
 - Modelo: Clasificadores - Random Forest, Support Vectorial Machine, Decision Tree
