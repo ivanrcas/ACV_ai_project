@@ -12,5 +12,5 @@
 - Modelo: Clasificadores - Random Forest, Support Vectorial Machine, Decision Tree
 
 
-[(code)](/proyecto) [(video)](https://youtu.be/jjCJTw0neps) [(+info)](proyecto/presentacion_ACV_ai_project.pdf)
+[(code)](proyecto/ACV_ai_project.ipynb) [(video)](https://youtu.be/jjCJTw0neps) [(+info)](proyecto/presentacion_ACV_ai_project.pdf)
 
